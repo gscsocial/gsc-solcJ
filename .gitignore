@@ -1,0 +1,18 @@
+# IDEA
+.idea
+*iml
+.DS_Store
+/scripts/
+
+# gradle
+.gradle/
+build/
+
+# log
+logs/
+
+# lombok
+out/
+
+# protobuf generated classes
+src/main/gen
